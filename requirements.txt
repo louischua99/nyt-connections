@@ -1,24 +1,38 @@
-# Core dependencies for training DeepSeek-R1 models
+# Core dependencies for fine-tuning language models on NYT Connections
+# Model: Qwen3-4B-Thinking-2507
+
+# PyTorch and transformers
 torch>=2.1.0
 transformers>=4.38.0
 datasets>=2.16.0
 accelerate>=0.26.0
+
+# Fine-tuning libraries
 peft>=0.8.0
 bitsandbytes>=0.42.0
 trl>=0.7.10
-wandb>=0.16.0
+
+# Unsloth for fast LoRA training
+unsloth>=2024.10
+xformers  # Required by Unsloth
+
+# Utilities
 sentencepiece>=0.1.99
 protobuf>=3.20.0
 einops>=0.7.0
+tqdm>=4.65.0
 
-# Optional: For Unsloth optimization (much faster training)
-# pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
+# Hugging Face Hub (for dataset uploads)
+huggingface_hub>=0.20.0
 
-# Optional: For evaluation metrics
+# Monitoring (optional)
+wandb>=0.16.0
+
+# Evaluation metrics (optional)
 scikit-learn>=1.3.0
 rouge-score>=0.1.2
 nltk>=3.8.0
 
-# Dependencies for category analysis script
+# Data generation dependencies
 openai>=1.0.0
 python-dotenv>=1.0.0

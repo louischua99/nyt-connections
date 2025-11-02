@@ -1,0 +1,278 @@
+{
+    "processed_count": 756,
+    "total_category_types": 15,
+    "category_types": [
+      {
+        "type": "Semantic Taxonomy",
+        "description": "Items are types of X, parts of Y, or members/components of a conventional category (hyponyms/meronyms, functions/uses). Includes members of culturally fixed sets.",
+        "examples": [
+          "SEEN AT AN ICE CREAM SHOP (CONE, CUP, LITTLE SPOON, SCOOP)",
+          "ELEMENTS OF A CLASSIC \u201cMOM\u201d TATTOO (ARROW, HEART, MOM, RIBBON)",
+          "ITEMS IN A LINEN CLOSET (PILLOWCASE, SHEET, TOWEL, WASHCLOTH)",
+          "LINGERIE (GARTER, HOSE, SLIP, TEDDY)",
+          "AIRPORT FEATURES (CAROUSEL, FOOD COURT, GATE, LOUNGE)",
+          "GUITAR PLAYING TECHNIQUES (BEND, PICK, SLIDE, STRUM)",
+          "PARTS OF A BIKE (CHAIN, PEDAL, SADDLE, WHEEL)",
+          "TV DISPLAY SETTINGS (BRIGHTNESS, COLOR, CONTRAST, TINT)",
+          "RESULTS OF SOME ARITHMETIC (DIFFERENCE, PRODUCT, QUOTIENT, SUM)",
+          "VALLEY (DALE, DELL, GLEN, HOLLOW)",
+          "BODIES OF WATER (BAY, CHANNEL, SOUND, STRAIT)",
+          "PARTS OF A SHOE (HEEL, SOLE, TONGUE, UPPER)",
+          "PLACES TO SHOP (BAZAAR, FAIR, MARKET, OUTLET)",
+          "KINDS OF PENGUINS (CHINSTRAP, EMPEROR, KING, MACARONI)",
+          "MEDICINE FORMATS (CREAM, PATCH, SPRAY, TABLET)",
+          "DRAPERY HANGING ITEMS (BRACKET, CURTAIN, HOOK, ROD)",
+          "COMPONENTS OF ONE\u2019S GRADE (ATTENDANCE, FINAL, HOMEWORK, PAPERS)",
+          "MAP APP OPTIONS (DESTINATION, ROUTE, STARTING POINT, STOPS)",
+          "CLASSIC TOYS (BALL, BLOCKS, JACKS, TRAIN)",
+          "FENCING GEAR (FOILS, GLOVES, JACKETS, MASKS)",
+          "ITEMS IN A SEWING KIT (BUTTON, NEEDLE, SCISSORS, THREAD)",
+          "APPLE PRODUCTS (BRANDY, BUTTER, CIDER, SAUCE)",
+          "KINDS OF JEANS (BOYFRIEND, FLARE, MOM, SKINNY)",
+          "FICTION CATEGORIES (HISTORICAL, LITERARY, SPECULATIVE, YOUNG ADULT)",
+          "BOTANICAL COVERINGS (HULL, HUSK, POD, SHELL)",
+          "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE (LINE, PLANE, POINT, SOLID)",
+          "NEWS ANNOUNCEMENT (BULLETIN, FLASH, REPORT, WIRE)",
+          "KINDS OF CHEESES (BLUE, GOAT, JACK, SWISS)",
+          "WOODWORKING HAND TOOLS (CHISEL, PLANE, RASP, SAW)",
+          "COMPONENTS OF A SALAD (CHEESE, DRESSING, LETTUCE, PROTEIN)",
+          "KINDS OF MACHINES (ENIGMA, PINBALL, SEWING, VENDING)",
+          "PARTS OF AN ANGEL COSTUME (HALO, HARP, ROBE, WINGS)",
+          "THINGS A DOG CAN FETCH (BALL, BONE, FRISBEE, STICK)",
+          "ICE CREAM TREATS (FLOAT, SHAKE, SPLIT, SUNDAE)",
+          "DANCE MOVES (CABBAGE PATCH, FLOSS, MOONWALK, ROBOT)",
+          "DENTAL ADDITIONS (BRIDGE, CROWN, FILLING, VENEER)",
+          "DO SOME GROOMING (BRUSH, DRESS, SHAVE, SHOWER)",
+          "AIRPORT BOARD INFO (ARRIVAL, DESTINATION, FLIGHT, GATE)",
+          "PRO ATHLETE DATA (COLLEGE, NUMBER, POSITION, TEAM)",
+          "KINDS OF LISTS (BUCKET, LAUNDRY, SHORT, TO-DO)",
+          "FIRED OBJECTS (CERAMICS, CHINA, POTTERY, WARE)"
+        ]
+      },
+      {
+        "type": "Semantic Synonymy",
+        "description": "Groups of words/phrases with closely related meanings, including idiomatic paraphrases sharing a sense.",
+        "examples": [
+          "PERSPECTIVE (ANGLE, BENT, LENS, POINT OF VIEW)",
+          "GODDESS (DIVA, ICON, LEGEND, QUEEN)",
+          "DIAMETRIC (COUNTER, OPPOSITE, POLAR, REVERSE)",
+          "CONNECT (BRIDGE, JOIN, LINK, UNITE)",
+          "COMMIT TO PAPER (AUTHOR, COMPOSE, PEN, WRITE)",
+          "FUZZY, AS A MEMORY (DIM, FAINT, REMOTE, VAGUE)",
+          "WITHOUT (ABSENT, MINUS, SANS, WANTING)",
+          "AUSTERE (BARE, PLAIN, SIMPLE, SPARE)",
+          "CRITICIZE (BASH, BLAST, PAN, SLAM)",
+          "MAKE HAPPY (DELIGHT, PLEASE, SUIT, TICKLE)",
+          "EXPRESSIONLESS (BLANK, FLAT, INANIMATE, WOODEN)",
+          "METTLE (FIGHT, GRIT, RESOLVE, SPIRIT)",
+          "SQUARELY (DEAD, EXACTLY, RIGHT, SMACK)",
+          "CAPTURE ON VIDEO (FILM, RECORD, SHOOT, TAPE)",
+          "STOCKY (SOLID, SQUAT, STOUT, THICK)",
+          "COMPANY (CONCERN, FIRM, HOUSE, OUTFIT)",
+          "STRICT (FIRM, RIGID, STERN, TOUGH)",
+          "IN FASHION (CHIC, CURRENT, FRESH, HAPPENING)",
+          "GREAT MANY (DROVE, HOST, LOAD, SCORE)",
+          "FLINCH (BOLT, JERK, JUMP, STARTLE)",
+          "STEAL (NICK, PALM, PINCH, POCKET)",
+          "DAPPER (NEAT, SHARP, SMART, TIDY)",
+          "KNOCKOFF (BOOTLEG, COPY, FAKE, REPLICA)",
+          "CORRESPONDENCE (CONTACT, DEALINGS, EXCHANGE, INTERACTION)",
+          "CON GAME (HUSTLE, RACKET, SCHEME, STING)",
+          "COMBINE, AS BAKING INGREDIENTS (BEAT, BLEND, FOLD, STIR)",
+          "YEARN (BURN, ITCH, LONG, PINE)",
+          "PARTICLE (CRUMB, GRAIN, MORSEL, SHRED)"
+        ]
+      },
+      {
+        "type": "Semantic Association",
+        "description": "Items linked by a shared attribute, function, scenario, or affordance without being strict synonyms or taxonomy members.",
+        "examples": [
+          "CONSIDERATIONS FOR MOVIE RATINGS (ACTION, LANGUAGE, NUDITY, SMOKING)",
+          "ROUND FLAT THINGS (COASTER, FRISBEE, PANCAKE, RECORD)",
+          "NEEDS FOR PLAYING YAHTZEE (CUP, DICE, PENCIL, SCORECARD)",
+          "OBJECTS WITH TEETH (COMB, GEAR, SAW, ZIPPER)",
+          "THINGS THAT RING (ALARM, BELL, INTERCOM, PHONE)",
+          "THINGS TO CLIMB (LADDER, MOUNTAIN, ROPE, TREE)",
+          "ACTIONS WITH LIPS (CURL, PUCKER, PURSE, SMACK)",
+          "GRADUATED INSTRUMENTS (BEAKER, PROTRACTOR, RULER, SYRINGE)",
+          "THEY'RE ON A ROLL! (FOIL, TAPE, RIBBON, TOILET PAPER)",
+          "WHAT A DRINK IS SERVED WITH (COASTER, GARNISH, GLASS, STRAW)",
+          "THINGS TO BOOK FOR A VACATION (CAR, FLIGHT, HOTEL, TOUR)",
+          "BAD THINGS FOR A WEBSITE TO DO (FREEZE, GLITCH, TIMEOUT, QUIT)",
+          "QUALITIES OF A RAINY DAY (COLD, GRAY, WET, WINDY)",
+          "SEEN IN OPENING CREDITS (CAST, DIRECTOR, STUDIO, TITLE)",
+          "BEVERAGE SELF-SERVICE ITEMS (CUP, LID, NAPKIN, STRAW)",
+          "POSSIBLE RESULTS OF A TRAFFIC VIOLATION (BOOT, POINTS, TICKET, TOW)",
+          "SEEN IN THE AFTERMATH OF A RAINSTORM (EARTHWORM, MUD, MUSHROOM, PUDDLE)",
+          "METAPHORS FOR A DRAMATIC AND CHAOTIC EVENT (CIRCUS, ROLLER COASTER, SOAP OPERA, WHIRLWIND)",
+          "ASSOCIATED WITH FREUD (DREAMS, ID, OEDIPUS, SLIP)",
+          "FARMERS\u2019 THINGS (ALMANAC, INSURANCE, MARKET, TAN)"
+        ]
+      },
+      {
+        "type": "Named Entities",
+        "description": "Sets anchored by proper names: people, characters, places, brands, titled works, teams, awards, or specific named artifacts.",
+        "examples": [
+          "HIT SONGS OF 1998 (CLOSING TIME, IRIS, ONE WEEK, TOO CLOSE)",
+          "DOGS OF THE SCREEN (ASTRO, BLUE, HOOCH, TOTO)",
+          "WHAT CHARACTERS WERE TRANSFORMED INTO IN \"BEAUTY AND THE BEAST\" (BEAST, CANDELABRA, CLOCK, TEACUP)",
+          "BEST PICTURE WINNERS SINCE 2000 (CHICAGO, CRASH, GLADIATOR, MOONLIGHT)",
+          "HEROES OF ACTION MOVIE FRANCHISES (BOND, JONES, OCEAN, WICK)",
+          "U.S.-BASED AIRLINES (AMERICAN, FRONTIER, SPIRIT, UNITED)",
+          "MAGAZINES (BILLBOARD, PEOPLE, STAR, TIME)",
+          "CHARACTERS WITH GREEN SKIN (ELPHABA, GRINCH, HULK, SHREK)",
+          "FIGURES IN CLASSIC DISNEY ANIMATED FILMS (ELEPHANT, FAWN, MARIONETTE, MOUSE)",
+          "PRO WRESTLING ICONS, WITH \u201cTHE\u201d (HITMAN, ROCK, SNAKE, UNDERTAKER)",
+          "HBO SHOWS (ENTOURAGE, EUPHORIA, INSECURE, SUCCESSION)",
+          "LEGAL DRAMAS (DAMAGES, GOLIATH, MATLOCK, SUITS)",
+          "\u201cSESAME STREET\u201d FIGURES (BIRD, COUNT, GROUCH, MONSTER)",
+          "INDUSTRIAL REVOLUTION INVENTORS (BELL, DIESEL, SINGER, WATT)",
+          "DRS (DRE, EVIL, PEPPER, SEUSS)"
+        ]
+      },
+      {
+        "type": "Collocational/Idiomatic",
+        "description": "Items fill a common slot in fixed phrases, compounds, or idioms; or are parts of set expressions/titles/quotations.",
+        "examples": [
+          "HOT ___ (DOG, POTATO, ROD, WATER BOTTLE)",
+          "___ TERRIER (BORDER, BOSTON, BULL, RAT)",
+          "___ STICK (CANDLE, CHOP, JOY, YARD)",
+          "___ STRIP (BACON, COMIC, LANDING, SUNSET)",
+          "MOTHER ___ (EARTH, GOOSE, MAY I, SUPERIOR)",
+          "___ CLEANER (BATHROOM, DRY, PIPE, VACUUM)",
+          "WORDS BEFORE \"BED\" (CANOPY, DAY, MURPHY, WATER)",
+          "___ MAIL (CHAIN, ELECTRONIC, JUNK, SNAIL)",
+          "SPRING ___ (CHICKEN, EQUINOX, FLING, ONION)",
+          "___ DUTY (CIVIC, CUSTOMS, HEAVY, JURY)",
+          "WAX ___ (MUSEUM, PAPER, POETIC, SEAL)",
+          "___ GLASS GLASSWARE (COCKTAIL, COLLINS, OLD FASHIONED, SHOT)",
+          "WORDS IN HEMINGWAY TITLES (BELL, FAREWELL, OLD MAN, SUN)",
+          "NOUNS FROM A DECLARATION OF INDEPENDENCE LINE (HAPPINESS, LIBERTY, LIFE, PURSUIT)",
+          "___ BROTHERS (BLOOD, BLUES, CHEMICAL, MARX)",
+          "SECOND WORDS IN DAVID LYNCH TITLES (DRIVE, HIGHWAY, PEAKS, VELVET)",
+          "___STONE (BIRTH, KEY, MILE, TOUCH)",
+          "WORDS AFTER \u201cT-\u201d (MOBILE, PAIN, REX, SHIRT)"
+        ]
+      },
+      {
+        "type": "Lexical Morphology",
+        "description": "Shared word-formation patterns: affixation, compounding, clippings, blends, reduplication, acronyms/initialisms; or systematic addition/removal of an affix.",
+        "examples": [
+          "COMPOUNDS WITH -PROOF (BULLETPROOF, FIREPROOF, WATERPROOF, CHILDPROOF)",
+          "ACRONYMS/INITIALISMS (MIA, OMG, PIN, RAM)",
+          "MICRO- COMPOUNDS (CHIP, PHONE, SCOPE, WAVE -> MICROCHIP, MICROPHONE, MICROSCOPE, MICROWAVE)",
+          "COMPOUNDS IN ___MAN (BOGEYMAN, CRAFTSMAN, GENTLEMAN, SPOKESMAN)",
+          "E- THINGS (COMMERCE, MAIL, SCOOTER, SIGNATURE -> E-COMMERCE, E-MAIL, E-SCOOTER, E-SIGNATURE)",
+          "KINDS OF PANTS MINUS 'S' (CAPRI, JEAN, JOGGER, SLACK)"
+        ]
+      },
+      {
+        "type": "Lexical Orthography",
+        "description": "Visible letter/character patterns or transformations in written forms: palindromes, anagrams, substrings/prefixes/suffixes, repeated letters, typographic shape categories, or systematic letter edits.",
+        "examples": [
+          "CARD GAMES WITH FIRST LETTER CHANGED (DIN, FRIDGE, GUMMY, JOKER \u2192 GIN, BRIDGE, RUMMY, POKER)",
+          "MUSIC GENRES PLUS A LETTER (BLUEST, POPE, ROCKY, SKAT \u2192 BLUES, POP, ROCK, SKA)",
+          "PALINDROMES (ABBA, KAYAK, NUN, STATS)",
+          "BEGINNING WITH DOUBLE LETTERS (AARDVARK, EERIE, LLAMA, OOZE)",
+          "\u201cLL\u201d CONTRACTIONS WITHOUT APOSTROPHE (HE'LL, I'LL, SHE'LL, WE'LL -> HELL, ILL, SHELL, WELL)",
+          "WORDS WHOSE ONLY VOWEL IS \"Y\" (MYRRH, NYMPH, RHYTHM, SPHYNX)",
+          "STARTING WITH METHODS OF TRANSPORTATION (BUSBOY, CARBON, SHIPSHAPE, TRAINEE)",
+          "BODY PART PLUS A STARTING LETTER (BARM, LEAR, RANKLE, SHIP)",
+          "STARTS OF EUROPEAN COUNTRIES (GERM, LUXE, MALT, PORT)",
+          "BIRDS MINUS LAST LETTER (CRAN, FLAMING, HERO, RAVE)",
+          "ENDING WITH PLAYING CARDS (BOJACK, HAWKING, LOVELACE, MCQUEEN)",
+          "STARTING WITH HIGH SCHOOL/COLLEGE ABBREVIATIONS (FRESHWATER, JUNIPER, SENECA, SOPHOCLES)"
+        ]
+      },
+      {
+        "type": "Phonological Pattern",
+        "description": "Sound-based relations: rhyme, alliteration, homophones/heterographs, silent letters, heteronyms, or spelling\u2013pronunciation mismatches.",
+        "examples": [
+          "HOMOPHONES (EWE, U, YEW, YOU)",
+          "OUGH WORDS THAT DON'T RHYME (BOUGH, COUGH, DOUGH, TOUGH)",
+          "WORDS PRONOUNCED SH WITHOUT AN SH (SEAN, SIOBHAN, SUGAR, SURE)",
+          "ENDING WITH SILENT T (BALLET, DEBUT, RAPPORT, TAROT)",
+          "STARTING WITH SILENT LETTERS (GNOME, KNEE, MNEMONIC, PSYCHE)",
+          "HOMOPHONES OF PARTS OF THE FOOT (BAWL, HEAL, SOUL, TOW)",
+          "ENDING WITH HOMOPHONES OF PARTS OF THE LEG (CRYPTO, DECAF, DISNEY, PRUSSIAN)"
+        ]
+      },
+      {
+        "type": "Grammatical/Syntactic",
+        "description": "Grouping by part of speech, inflectional behavior, subcategorization frame, or shared discourse function.",
+        "examples": [
+          "\"AW, HECK!\" EXCLAMATIONS (BLAST, CRUD, CURSES, FUDGE)",
+          "INTERJECTIONS (BOY, GOODNESS, MAN, WOW)",
+          "VOCATIVE TERMS OF ADDRESS (BUB, BUD, JACK, MAN)",
+          "TIME ADVERBS (LATER, NOW, SOON, THEN)",
+          "IRREGULAR ENGLISH PLURALS (DICE, LICE, MICE, OXEN)"
+        ]
+      },
+      {
+        "type": "Wordplay - Double Meaning",
+        "description": "Polysemy/ambiguity sets: different senses of the same cue, shared nicknames, contronyms, or tokens usable across distinct reference frames.",
+        "examples": [
+          "WHAT \u201cPOP\u201d MIGHT MEAN (BURST, FATHER, POPULAR, SODA)",
+          "THINGS YOU CAN PICK (APPLE, BANJO, CARD, NOSE)",
+          "BIRDS THAT ARE VERBS (DUCK, GROUSE, HAWK, SWALLOW)",
+          "THINGS YOU CAN DRAW (BATH, CARD, CURTAIN, PICTURE)",
+          "WHAT \"BILL\" MIGHT REFER TO (BANKNOTE, BEAK, INVOICE, WILLIAM)",
+          "WHAT \"BUFF\" MIGHT MEAN (ENTHUSIAST, MUSCULAR, NUDE, POLISH)",
+          "CONTENTS OF A POD (ASTRONAUT, COFFEE, PEA, WHALE)",
+          "WHAT \u201cLEFT\u201d MIGHT MEAN (DEPARTED, PORT, PROGRESSIVE, REMAINING)",
+          "WHAT \u201cJET\u201d MIGHT REFER TO (AIRPLANE, BLACK, HOT TUB NOZZLE, NFL PLAYER)",
+          "WHAT \u201cID\u201d MIGHT REFER TO (FREUDIAN CONCEPT, IDAHO, DRIVER LICENSE, RECOGNIZE)",
+          "WHAT \u201cIN\u201d MIGHT REFER TO (INCH, INDIANA, INSIDE, TRENDY)",
+          "WHAT \u201cLA\u201d MIGHT REFER TO (LANTHANUM, LOS ANGELES, LOUISIANA, MUSICAL NOTE)",
+          "WHAT \u201cOK\u201d MIGHT REFER TO (BRITISH MAGAZINE, GREENLIGHT, MEDIOCRE, OKLAHOMA)"
+        ]
+      },
+      {
+        "type": "Temporal/Sequential",
+        "description": "Ordered or cyclical series where rank, order, or cycle is essential (including graded scales).",
+        "examples": [
+          "PARTS OF A FLIGHT (TAXI, TAKEOFF, CRUISE, TOUCHDOWN)",
+          "CONDITIONS FOR COLLECTIBLES (FAIR, FINE, GOOD, MINT)",
+          "DAYS OF THE WEEK (FRIDAY, SATURDAY, SUNDAY, THURSDAY)"
+        ]
+      },
+      {
+        "type": "Numerical/Quantitative",
+        "description": "Patterns involving digits, counts, arithmetic, measurement, or conventional numeric labels/symbols.",
+        "examples": [
+          "REPRESENTED BY THREE-DIGIT NUMBERS (CANNABIS=420, DEVIL=666, INTRO CLASS=101, JAMES BOND=007)",
+          "WAYS TO EXPRESS 1,000 (GRAND, K, M, THOU)",
+          "ROMAN NUMERALS (I, V, X, L, D, M)",
+          "CONTAIN A DIGIT (U2, R2-D2, 7-ELEVEN, MAROON 5)"
+        ]
+      },
+      {
+        "type": "Lexical Etymology",
+        "description": "Shared historical origin: loanwords from the same source language, eponyms/toponyms, or words grouped as tokens of a specified language.",
+        "examples": [
+          "SPANISH WORDS (ELLA, GUSTO, MAYO, SOY)",
+          "WORDS DERIVED FROM JAPANESE (EMOJI, GINKGO, KARAOKE, TYCOON)",
+          "GERMAN WORDS (ANGST, DIE, KINDER, WURST)"
+        ]
+      },
+      {
+        "type": "Sociolinguistic Register/Variety",
+        "description": "Grouping by dialect, region, era, or register (slang, colloquial, formal, technical/jargon).",
+        "examples": [
+          "SLANG FOR COFFEE (BREW, JAVA, MUD, ROCKET FUEL)",
+          "RADIO LINGO (COPY, NEGATIVE, OVER, ROGER)",
+          "SHAKESPEAREAN WORDS (ANON, ART, THOU, WILT)",
+          "BRITISHISMS (BUTTY, CHIPPY, FOOTY, TELLY)",
+          "TEXTING/CHAT ABBREVIATIONS (BRB, LOL, TTYL, IMO)",
+          "'80S SLANG (CHILL, PSYCH, RADICAL, WORD)"
+        ]
+      },
+      {
+        "type": "Cross-Linguistic Equivalents",
+        "description": "Translations of the same concept across different languages, or language-specific words grouped by a shared meaning.",
+        "examples": [
+          "\"MANY\" IN DIFFERENT LANGUAGES (BEAUCOUP, MOLTO, MUCHO, MULTI)"
+        ]
+      }
+    ]
+  }
