@@ -1,0 +1,15 @@
+model_name,total_puzzles,avg_score_%,perfect_puzzles,total_correct_groups
+deepseek_deepseek_chat_validation,276,52.90%,75/276 (27.2%),584
+deepseek_deepseek_reasoner_validation,276,74.64%,202/276 (73.2%),824
+exp1_baseline,276,30.16%,29/276 (10.5%),333
+exp1_full,276,34.60%,37/276 (13.4%),382
+exp1_permutation,276,34.06%,35/276 (12.7%),376
+exp1_synthetic,276,31.07%,35/276 (12.7%),343
+exp2_mixed,276,22.01%,15/276 (5.4%),243
+exp2_sequential,276,22.28%,17/276 (6.2%),246
+exp2_structured,276,27.63%,24/276 (8.7%),305
+exp2_unstructured,276,6.25%,2/276 (0.7%),69
+exp3_no_warmup,276,35.60%,49/276 (17.8%),393
+exp3_staged,276,34.69%,42/276 (15.2%),383
+exp3_warmup,276,37.77%,42/276 (15.2%),417
+original_model_validation,276,31.79%,51/276 (18.5%),351

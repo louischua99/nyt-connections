@@ -1,0 +1,13 @@
+model_name,total_puzzles,avg_score_%,perfect_puzzles,total_correct_groups
+exp1_baseline,104,51.44%,35/104 (33.7%),214
+exp1_full,104,58.65%,38/104 (36.5%),244
+exp1_permutation,104,49.28%,30/104 (28.8%),205
+exp1_synthetic,104,51.92%,33/104 (31.7%),216
+exp2_mixed,104,75.48%,75/104 (72.1%),314
+exp2_sequential,104,55.77%,42/104 (40.4%),232
+exp2_structured,104,50.48%,34/104 (32.7%),210
+exp2_unstructured,104,92.07%,90/104 (86.5%),383
+exp3_no_warmup,104,53.61%,32/104 (30.8%),223
+exp3_staged,104,52.88%,31/104 (29.8%),220
+exp3_warmup,104,54.33%,37/104 (35.6%),226
+original_model_test,104,35.34%,24/104 (23.1%),147
