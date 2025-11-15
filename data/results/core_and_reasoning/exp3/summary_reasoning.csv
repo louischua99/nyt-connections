@@ -1,0 +1,4 @@
+experiment,model,n_examples,coverage_ratio,avg_step_count_if_present
+exp3,exp3_warmup,104,0.9807692307692307,15.96078431372549
+exp3,exp3_no_warmup,104,0.9711538461538461,15.881188118811881
+exp3,exp3_staged,104,0.9903846153846154,16.436893203883496

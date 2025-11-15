@@ -1,0 +1,4 @@
+model,wins,non_ties,win_rate_excl_ties
+exp3_warmup,167,197,0.8477157360406091
+exp3_no_warmup,91,196,0.4642857142857143
+exp3_staged,38,199,0.19095477386934673

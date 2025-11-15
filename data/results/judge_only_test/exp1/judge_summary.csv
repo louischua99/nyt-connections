@@ -1,0 +1,2 @@
+pair,wins_A,wins_B,ties,n,win_rate_A_excl_ties,ci_low,ci_high
+exp1_full vs exp1_synthetic,87,14,1,102,0.8613861386138614,0.7806876109575833,0.915600885211876

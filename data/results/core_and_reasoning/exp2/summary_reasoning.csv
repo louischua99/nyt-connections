@@ -1,0 +1,5 @@
+experiment,model,n_examples,coverage_ratio,avg_step_count_if_present
+exp2,exp2_mixed,104,0.22115384615384615,4.217391304347826
+exp2,exp2_sequential,104,1.0,16.442307692307693
+exp2,exp2_structured,104,1.0,16.423076923076923
+exp2,exp2_unstructured,104,0.16346153846153846,2.8823529411764706

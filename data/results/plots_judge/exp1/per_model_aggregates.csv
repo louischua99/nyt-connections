@@ -1,0 +1,5 @@
+model,wins,non_ties,win_rate_excl_ties
+exp1_baseline,212,300,0.7066666666666667
+exp1_permutation,186,303,0.6138613861386139
+exp1_full,142,301,0.4717607973421927
+exp1_synthetic,63,302,0.20860927152317882

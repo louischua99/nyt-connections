@@ -1,0 +1,5 @@
+experiment,model,n_examples,coverage_ratio,avg_step_count_if_present
+exp1,exp1_baseline,104,1.0,15.961538461538462
+exp1,exp1_permutation,104,0.9615384615384616,16.1
+exp1,exp1_full,104,0.9807692307692307,16.137254901960784
+exp1,exp1_synthetic,104,1.0,16.33653846153846

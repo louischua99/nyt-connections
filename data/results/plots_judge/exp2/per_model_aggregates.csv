@@ -1,0 +1,5 @@
+model,wins,non_ties,win_rate_excl_ties
+exp2_sequential,206,301,0.6843853820598007
+exp2_mixed,178,299,0.5953177257525084
+exp2_structured,152,305,0.49836065573770494
+exp2_unstructured,67,301,0.22259136212624583

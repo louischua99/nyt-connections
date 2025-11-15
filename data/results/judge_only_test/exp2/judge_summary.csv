@@ -1,0 +1,2 @@
+pair,wins_A,wins_B,ties,n,win_rate_A_excl_ties,ci_low,ci_high
+exp2_structured vs exp2_unstructured,83,19,0,102,0.8137254901960784,0.7272970187923337,0.8773801591792768
