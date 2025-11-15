@@ -15,7 +15,8 @@ This codebase investigates fine-tuning strategies for teaching language models t
 │   ├── predictions_test/           # Model predictions on test set
 │   ├── predictions_validation/     # Model predictions on validation set
 │   ├── evaluation_results_*.csv    # Detailed evaluation metrics
-│   └── evaluation_summary_*.csv    # Aggregate performance by model
+│   ├── evaluation_summary_*.csv    # Aggregate performance by model
+│   └── results/                    # Results from validation test for core, reasoning and judge metrics
 │
 ├── data2/                          # Source data (pre-processing)
 │   ├── puzzles/                    # Raw puzzle data (NYT + synthetic + pre-connections)
@@ -28,7 +29,11 @@ This codebase investigates fine-tuning strategies for teaching language models t
 │   ├── evaluate_predictions.py     # Evaluate model predictions and compute metrics
 │   ├── generate_predictions.py     # Generate predictions from trained models
 │   ├── gen_*.py                    # Data generation scripts (reasoning, synthetic puzzles)
-│   └── process_*.py                # Format processing utilities
+│   ├── process_*.py                # Format processing utilities
+│   ├── eval_core_reasoning.py      # Evaluation for core metrics (f1, precision, recall) and reasoning quality (average steps and coverage ratio)
+│   └── eval_judge.py               # Evaluation for Judge 
+│
+│
 │
 ├── models/                         # Saved model checkpoints (exp1_*, exp2_*, exp3_*)
 ├── logs/                           # Training logs
